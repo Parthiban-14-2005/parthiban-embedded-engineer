@@ -66,7 +66,7 @@ export const Contact = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/parthiban-n-2005-04-01-np"
+                href="https://www.linkedin.com/in/parthiban-n-40379b445/"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-testid="social-linkedin"
